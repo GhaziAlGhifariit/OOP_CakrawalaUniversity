@@ -1,9 +1,9 @@
 ## Sistem Pembayaran
 ## Buat sistem pembayaran digital dengan:
 
-**● Payment sebagai parent class (id, amount, date, status)**
+**○ Payment sebagai parent class (id, amount, date, status)**
 
-**● Child classes:**
+**○ Child classes:**
 
 **○ CreditCardPayment: cardNumber, expiryDate,cvv**
 
